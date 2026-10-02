@@ -1,0 +1,8 @@
+*.class
+target/
+*.jar
+*.log
+!transaction.log
+backups/
+.DS_Store
+*.idx
